@@ -1,5 +1,10 @@
 # Habit Tracker
 
+> Built with [Dark Factory v4](https://github.com/ibuzzardo/dark-factory-v4) — autonomous AI software development pipeline
+
+**[Live Demo](https://habit-tracker-three-drab.vercel.app)**
+
+
 A clean, modern daily habit tracker built with Next.js 15, TypeScript, and Tailwind CSS. Track your daily habits, build streaks, and visualize your progress with a weekly view.
 
 ## Features
